@@ -1,4 +1,4 @@
-# stard-lab
+# stard_lab
 
 English is the authoritative documentation for this project. A Chinese translation is available at `README.zh-CN.md`.
 
