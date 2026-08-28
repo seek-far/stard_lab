@@ -1,0 +1,7 @@
+accelerate
+modelscope
+peft
+sentence-transformers>=5.4.0
+torch
+tqdm
+transformers

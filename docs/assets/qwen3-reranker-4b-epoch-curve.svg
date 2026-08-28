@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="420" viewBox="0 0 860 420" role="img" aria-label="Qwen3-Reranker-4B LoRA: epoch effect, lr=3e-5">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="72" y="26" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#111827">Qwen3-Reranker-4B LoRA: epoch effect, lr=3e-5</text>
+<line x1="72" y1="356.0" x2="832" y2="356.0" stroke="#e5e7eb"/>
+<text x="60" y="360.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">0.70</text>
+<line x1="72" y1="293.6" x2="832" y2="293.6" stroke="#e5e7eb"/>
+<text x="60" y="297.6" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">0.74</text>
+<line x1="72" y1="231.2" x2="832" y2="231.2" stroke="#e5e7eb"/>
+<text x="60" y="235.2" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">0.77</text>
+<line x1="72" y1="168.8" x2="832" y2="168.8" stroke="#e5e7eb"/>
+<text x="60" y="172.8" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">0.81</text>
+<line x1="72" y1="106.4" x2="832" y2="106.4" stroke="#e5e7eb"/>
+<text x="60" y="110.4" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">0.84</text>
+<line x1="72" y1="44.0" x2="832" y2="44.0" stroke="#e5e7eb"/>
+<text x="60" y="48.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">0.88</text>
+<line x1="72" y1="44" x2="72" y2="356" stroke="#111827"/>
+<line x1="72" y1="356" x2="832" y2="356" stroke="#111827"/>
+<line x1="72.0" y1="356" x2="72.0" y2="361" stroke="#111827"/>
+<text x="72.0" y="378" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#374151">1</text>
+<line x1="452.0" y1="356" x2="452.0" y2="361" stroke="#111827"/>
+<text x="452.0" y="378" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#374151">2</text>
+<line x1="832.0" y1="356" x2="832.0" y2="361" stroke="#111827"/>
+<text x="832.0" y="378" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#374151">3</text>
+<text x="452.0" y="404" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#374151">Epoch</text>
+<text x="18" y="200.0" transform="rotate(-90 18 200.0)" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#374151">Metric value</text>
+<path d="M72.0,78.4 L452.0,99.2 L832.0,119.2" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="72.0" cy="78.4" r="3.2" fill="#2563eb"/>
+<circle cx="452.0" cy="99.2" r="3.2" fill="#2563eb"/>
+<circle cx="832.0" cy="119.2" r="3.2" fill="#2563eb"/>
+<line x1="84" y1="62" x2="112" y2="62" stroke="#2563eb" stroke-width="2.5"/>
+<text x="120" y="66" font-family="Arial, sans-serif" font-size="12" fill="#111827">Recall@10</text>
+<path d="M72.0,303.7 L452.0,296.2 L832.0,326.3" fill="none" stroke="#dc2626" stroke-width="2.5"/>
+<circle cx="72.0" cy="303.7" r="3.2" fill="#dc2626"/>
+<circle cx="452.0" cy="296.2" r="3.2" fill="#dc2626"/>
+<circle cx="832.0" cy="326.3" r="3.2" fill="#dc2626"/>
+<line x1="84" y1="84" x2="112" y2="84" stroke="#dc2626" stroke-width="2.5"/>
+<text x="120" y="88" font-family="Arial, sans-serif" font-size="12" fill="#111827">MRR@10</text>
+<text x="828" y="62" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">Train loss: 0.6972 -&gt; 0.4657 -&gt; 0.2646</text>
+<text x="828" y="80" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">MRR@10 peaks at epoch 2</text>
+<text x="828" y="98" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">Epoch 3 shows dev regression</text>
+</svg>
