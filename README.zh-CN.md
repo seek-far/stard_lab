@@ -192,3 +192,11 @@ python scripts/cross_encoder_rerank_eval.py \
   --batch-size 16 \
   --torch-dtype bfloat16
 ```
+
+## License
+
+本仓库采用 MIT License，详见 `LICENSE`。
+
+上游 STARD 数据集和原始代码由 STARD 作者在
+[STARD GitHub 仓库](https://github.com/oneal2000/STARD) 中提供，该仓库同样采用
+MIT license。

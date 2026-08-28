@@ -192,3 +192,11 @@ python scripts/cross_encoder_rerank_eval.py \
   --batch-size 16 \
   --torch-dtype bfloat16
 ```
+
+## License
+
+This repository is licensed under the MIT License. See `LICENSE`.
+
+The upstream STARD dataset and original code are provided by the STARD authors in
+the [STARD GitHub repository](https://github.com/oneal2000/STARD), which is also
+MIT licensed.
